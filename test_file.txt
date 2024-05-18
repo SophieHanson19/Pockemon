@@ -1,0 +1,1 @@
+Congratulations! You've successfully created a new file in PyCharm.
